@@ -22,3 +22,11 @@ Mais do que um simples leitor de notícias, este projeto serve como base prátic
 * 🔍 **Consumo Dinâmico de API:** Requisições assíncronas e tratadas direto com o ecossistema Laravel.
 * 🏷️ **Filtros por Órbitas (Tags):** Alterne instantaneamente entre AWS, PHP, Docker, DevOps e muito mais.
 * 📱 **Design Responsivo:** Interface limpa inspirada em painéis de monitoramento espacial.
+
+
+## 📸 Visualização do Projeto
+
+<p align="center">
+  <img src="public/images/tela_inicial.png" alt="Tela Inicial" width="48%" />
+  <img src="public/images/news.png" alt="Filtros" width="48%" />
+</p>
